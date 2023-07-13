@@ -4,7 +4,7 @@
 # используйте для проверки своего результата.
 
 HEX_DIVIDER = 16
-hex_string = "0123456789abcdef"
+HEX_STRING = "0123456789abcdef"
 
 
 def get_number_from_user() -> int:
@@ -15,7 +15,7 @@ def get_number_from_user() -> int:
 def converter(patient: int) -> str:
     r: str = ""
     while patient > 0:
-        r = str(hex_string[patient % HEX_DIVIDER]) + r
+        r = str(HEX_STRING[patient % HEX_DIVIDER]) + r
         patient //= HEX_DIVIDER
     return "РЕЗУЛЬТАТ: " + r
 
