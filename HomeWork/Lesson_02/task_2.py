@@ -3,9 +3,11 @@
 # Программа должна возвращать сумму
 # и *произведение дробей. Для проверки своего
 # кода используйте модуль fractions.
+import fractions
 
-# функция нахождения НОК
+
 def find_lcm(x: int, y: int) -> int:
+    """Функция нахождения НОК"""
     if x > y:
         bigger = x
     else:
@@ -56,3 +58,10 @@ def multiplication_of_fractions(fraction_1: str, fraction_2: str) -> str:
 fraction1, fraction2 = get_fractions_from_user()
 print(addition_of_fractions(fraction1, fraction2))
 print(multiplication_of_fractions(fraction1, fraction2))
+
+num_1, denom_1 = get_numerator_denominator_from_str(fraction1)
+num_2, denom_2 = get_numerator_denominator_from_str(fraction2)
+droby1 = fractions.Fraction(num_1, denom_1)
+droby2 = fractions.Fraction(num_2, denom_2)
+print(f"ПРОВЕРКА С ПОМОЩЬЮ МОДУЛЯ fractions: \n\tСУММА ДРОБЕЙ = {droby1 + droby2} \n\t"
+      f"ПРОИЗВЕДЕНИЕ ДРОБЕЙ = {droby1 * droby2}")
