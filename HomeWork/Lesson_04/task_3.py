@@ -4,14 +4,14 @@
 
 
 def print_menu(cash_print):
-    """Функция для печати меню банкомата"""
+    """Функция печати меню банкомата"""
     print(f"На вашем счете = {round(cash_print, 2)} рублей\n\tМЕНЮ:\n1 -> пополнить\n2 -> снять\n"
           f"3 -> история операций\n4 -> выход")
     return cash_print
 
 
 def put_money(cash_1_op, count_1_op):
-    """Функция для внесения денег"""
+    """Функция внесения денег"""
     add = float(input("внесите сумму кратную 50: "))
     if add % 50 == 0:
         cash_1_op += add
@@ -26,7 +26,7 @@ def put_money(cash_1_op, count_1_op):
 
 
 def give_money(cash_2_op, count_2_op):
-    """Функция для снятия денег"""
+    """Функция снятия денег"""
     take = float(input("введите сумму снятия кратную 50: "))
     if take % 50 == 0:
         percent = take * 1.5 * 0.01
@@ -53,7 +53,7 @@ def give_money(cash_2_op, count_2_op):
 
 
 def print_history(print_op_history):
-    """Функция для печати истории операций"""
+    """Функция печати истории операций"""
     print("\nИстория операций: " + "\n".join(print_op_history) + "\nдля продолжения нажмите любую клавишу...")
 
 
