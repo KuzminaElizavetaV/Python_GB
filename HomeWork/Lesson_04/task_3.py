@@ -54,7 +54,7 @@ def give_money(cash_2_op, count_2_op):
 
 def print_history(print_op_history):
     """Функция для печати истории операций"""
-    print("\nистория операций: " + "\n".join(print_op_history) + "\nдля продолжения нажмите любую клавишу...")
+    print("\nИстория операций: " + "\n".join(print_op_history) + "\nдля продолжения нажмите любую клавишу...")
 
 
 def give_percent(cash_3_op, count_3_op):
@@ -70,9 +70,7 @@ def cash_machine(total_cash, count, history_operation):
     while True:
         if total_cash > 5_000_000:
             total_cash *= 0.9
-
         total_cash = print_menu(total_cash)
-
         action = input("\nваш выбор -> ")
         match action:
             case "1":
