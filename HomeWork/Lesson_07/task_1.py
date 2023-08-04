@@ -11,6 +11,10 @@ import os
 
 
 def create_sequence_number(num: int):
+    """
+    Функция-генератор создания порядкового номера
+    :param num: количество цифр в порядковом номере
+    """
     limit = 9999999
     countdown = 1 if num == 1 else (10 ** num) + 1
     for i in range(countdown, limit):
