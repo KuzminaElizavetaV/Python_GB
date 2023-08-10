@@ -5,14 +5,14 @@ import pickle
 __all__ = ['make_json', 'data2json', 'json2csv', 'change_csv2json', 'json2pickle', 'list_of_dicts_pickle2csv',
            'csv2pickle_string', 'all_info_dir']
 
-FILE_NAME_JSON_1 = r"D:\Python_GB\HomeWork\Lesson_08\result.json"
+FILE_NAME_JSON_1 = r"D:\Python_GB\HomeWork\Lesson_08\task_2\result.json"
 FILE_NAME_TXT = r"D:\Python_GB\HomeWork\Lesson_07\result.txt"
-FILE_NAME_JSON_2 = r"D:\Python_GB\HomeWork\Lesson_08\json_data.json"
-FILE_NAME_CSV_1 = r"D:\Python_GB\HomeWork\Lesson_08\json_data.csv"
-FILE_NAME_JSON_3 = r"D:\Python_GB\HomeWork\Lesson_08\csv_data.json"
-DIR_PATH = r"D:\Python_GB\HomeWork\Lesson_08"
-FILE_NAME_PICKLE = r"D:\Python_GB\HomeWork\Lesson_08\csv_data.pickle"
-FILE_NAME_CSV = r"D:\Python_GB\HomeWork\Lesson_08\csv_data_pickle.csv"
+FILE_NAME_JSON_2 = r"D:\Python_GB\HomeWork\Lesson_08\task_2\json_data.json"
+FILE_NAME_CSV_1 = r"D:\Python_GB\HomeWork\Lesson_08\task_2\json_data.csv"
+FILE_NAME_JSON_3 = r"D:\Python_GB\HomeWork\Lesson_08\task_2\csv_data.json"
+DIR_PATH = r"D:\Python_GB\HomeWork\Lesson_08\task_2"
+FILE_NAME_PICKLE = r"D:\Python_GB\HomeWork\Lesson_08\task_2\csv_data.pickle"
+FILE_NAME_CSV = r"D:\Python_GB\HomeWork\Lesson_08\task_2\csv_data_pickle.csv"
 DIR_PATH_ = r'D:\Python_GB\HomeWork\Lesson_08'
 FILE_NAME_START = 'ALL_INFO_DIR_'
 TYPE_OBJECT = ('файл', 'директория')
@@ -76,7 +76,7 @@ def json2csv(json_file_path: str = FILE_NAME_JSON_2, csv_file_path: str = FILE_N
     for access_level, users in data.items():
         for user_id, name in users.items():
             rows.append({'access_level': int(access_level), 'id': int(user_id), 'name': name})
-    with open(csv_file_path, 'w', encoding='utf-8') as csv_file:
+    with open(csv_file_path, 'w', newline='', encoding='utf-8') as csv_file:
         csv_dict = csv.DictWriter(csv_file, dialect='excel-tab', fieldnames=['access_level', 'id', 'name'])
         csv_dict.writeheader()
         csv_dict.writerows(rows)
@@ -94,15 +94,13 @@ def change_csv2json(csv_file_path: str = FILE_NAME_CSV_1, json_file_path: str = 
     with open(csv_file_path, 'r', encoding='utf-8') as csv_file:
         csv_reader = csv.reader(csv_file, dialect='excel-tab')
         data = []
-        user_data = {}
         for i, row in enumerate(csv_reader):
-            if i and row != []:
+            if i:
                 access_level, user_id, name = row
-                user_data['access_level'] = int(access_level)
-                user_data['user_id'] = f'{int(user_id):010}'
-                user_data['name'] = name.capitalize()
-                user_data['hash'] = hash((user_id, name))
-                data.append(user_data)
+                data.append({'access_level': int(access_level),
+                             'user_id': f'{int(user_id):010}',
+                             'name': name.capitalize(),
+                             'hash': hash((user_id, name))})
         with open(json_file_path, 'w', encoding='utf-8') as json_file:
             json.dump(data, json_file, indent=2, ensure_ascii=False)
 
