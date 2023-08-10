@@ -1,66 +1,66 @@
 ОБЪЕКТ_НОМЕР_	РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ	ТИП_ОБЪЕКТА	ИМЯ_ОБЪЕКТА	РАЗМЕР_В_БАЙТАХ
-ОБЪЕКТ_НОМЕР_ 1	D:\Python_GB\HomeWork\Lesson_07	файл	-re-_rename_0001.txt	0
-ОБЪЕКТ_НОМЕР_ 2	D:\Python_GB\HomeWork\Lesson_07	файл	-re-_rename_0002.txt	0
-ОБЪЕКТ_НОМЕР_ 3	D:\Python_GB\HomeWork\Lesson_07	файл	-re-_rename_0003.txt	0
-ОБЪЕКТ_НОМЕР_ 4	D:\Python_GB\HomeWork\Lesson_07	файл	names.txt	72
-ОБЪЕКТ_НОМЕР_ 5	D:\Python_GB\HomeWork\Lesson_07	файл	numbers.txt	126
-ОБЪЕКТ_НОМЕР_ 6	D:\Python_GB\HomeWork\Lesson_07	файл	result.txt	237
-ОБЪЕКТ_НОМЕР_ 7	D:\Python_GB\HomeWork\Lesson_07	файл	task_1.py	3153
-ОБЪЕКТ_НОМЕР_ 8	D:\Python_GB\HomeWork\Lesson_07	файл	task_2.py	767
-ОБЪЕКТ_НОМЕР_ 9	D:\Python_GB\HomeWork\Lesson_07	директория	file_handler	24336
-ОБЪЕКТ_НОМЕР_ 10	D:\Python_GB\HomeWork\Lesson_07	директория	many_files	93885
-ОБЪЕКТ_НОМЕР_ 11	D:\Python_GB\HomeWork\Lesson_07\file_handler	файл	my_functions.py	9443
-ОБЪЕКТ_НОМЕР_ 12	D:\Python_GB\HomeWork\Lesson_07\file_handler	файл	__init__.py	28
-ОБЪЕКТ_НОМЕР_ 13	D:\Python_GB\HomeWork\Lesson_07\file_handler	директория	__pycache__	14865
-ОБЪЕКТ_НОМЕР_ 14	D:\Python_GB\HomeWork\Lesson_07\file_handler\__pycache__	файл	my_functions.cpython-311.pyc	14672
-ОБЪЕКТ_НОМЕР_ 15	D:\Python_GB\HomeWork\Lesson_07\file_handler\__pycache__	файл	__init__.cpython-311.pyc	193
-ОБЪЕКТ_НОМЕР_ 16	D:\Python_GB\HomeWork\Lesson_07\many_files	файл	0niw_rename_02.tor	932
-ОБЪЕКТ_НОМЕР_ 17	D:\Python_GB\HomeWork\Lesson_07\many_files	файл	3ixayj5_v08erw682nnab.sh	3521
-ОБЪЕКТ_НОМЕР_ 18	D:\Python_GB\HomeWork\Lesson_07\many_files	файл	7wn2k4uexkqe5xe76tg4tu.java	3656
-ОБЪЕКТ_НОМЕР_ 19	D:\Python_GB\HomeWork\Lesson_07\many_files	файл	8ww1jdovamr1b0or.java	641
-ОБЪЕКТ_НОМЕР_ 20	D:\Python_GB\HomeWork\Lesson_07\many_files	файл	9fz0s3wytft6zpu6lyg.sh	1019
-ОБЪЕКТ_НОМЕР_ 21	D:\Python_GB\HomeWork\Lesson_07\many_files	файл	jn5y7bcv2c700.java	1959
-ОБЪЕКТ_НОМЕР_ 22	D:\Python_GB\HomeWork\Lesson_07\many_files	файл	k2q2pb.java	2446
-ОБЪЕКТ_НОМЕР_ 23	D:\Python_GB\HomeWork\Lesson_07\many_files	файл	x4c4_rename_01.tor	662
-ОБЪЕКТ_НОМЕР_ 24	D:\Python_GB\HomeWork\Lesson_07\many_files	директория	Music	8758
-ОБЪЕКТ_НОМЕР_ 25	D:\Python_GB\HomeWork\Lesson_07\many_files	директория	Pictures	34708
-ОБЪЕКТ_НОМЕР_ 26	D:\Python_GB\HomeWork\Lesson_07\many_files	директория	Text	21607
-ОБЪЕКТ_НОМЕР_ 27	D:\Python_GB\HomeWork\Lesson_07\many_files	директория	Video	13976
-ОБЪЕКТ_НОМЕР_ 28	D:\Python_GB\HomeWork\Lesson_07\many_files\Music	файл	891gceo9h9usn.mp3	382
-ОБЪЕКТ_НОМЕР_ 29	D:\Python_GB\HomeWork\Lesson_07\many_files\Music	файл	9lhzg4jfl.wav	1831
-ОБЪЕКТ_НОМЕР_ 30	D:\Python_GB\HomeWork\Lesson_07\many_files\Music	файл	da1o83.wav	286
-ОБЪЕКТ_НОМЕР_ 31	D:\Python_GB\HomeWork\Lesson_07\many_files\Music	файл	sx4uyrnouv8kg9o.mp3	2981
-ОБЪЕКТ_НОМЕР_ 32	D:\Python_GB\HomeWork\Lesson_07\many_files\Music	файл	v2lp533ci3o7.aac	331
-ОБЪЕКТ_НОМЕР_ 33	D:\Python_GB\HomeWork\Lesson_07\many_files\Music	файл	w7cvcy.wav	2947
-ОБЪЕКТ_НОМЕР_ 34	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	28pq3_c305rp_ecc1of8l.jpg	513
-ОБЪЕКТ_НОМЕР_ 35	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	6hy6ibbz2bt1s.png	4069
-ОБЪЕКТ_НОМЕР_ 36	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	6rhs77v8p5dm_kri.gif	1713
-ОБЪЕКТ_НОМЕР_ 37	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	9d0qdcfxomfbbktn_350e35zuq.jpg	2492
-ОБЪЕКТ_НОМЕР_ 38	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	b1t6ocqkzqt7_pw8.bmp	1820
-ОБЪЕКТ_НОМЕР_ 39	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	f3co98t44jk97cmcqmat.png	2745
-ОБЪЕКТ_НОМЕР_ 40	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	fdacrs0e615x95gh897e.png	2742
-ОБЪЕКТ_НОМЕР_ 41	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	g6h1kzhrc8q2c5w3g.bmp	3027
-ОБЪЕКТ_НОМЕР_ 42	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	ihqxb98v909dzh5tm.jpg	1269
-ОБЪЕКТ_НОМЕР_ 43	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	kz_asap3zx794d.jpg	1051
-ОБЪЕКТ_НОМЕР_ 44	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	mpvte5dpvg.gif	1553
-ОБЪЕКТ_НОМЕР_ 45	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	m_8qbe8vy909c6.bmp	662
-ОБЪЕКТ_НОМЕР_ 46	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	ot_95h3_zx8_yb_mai1efyfra.bmp	2527
-ОБЪЕКТ_НОМЕР_ 47	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	slxy1ig5xkysvz5j662weqxek0tdca.bmp	3584
-ОБЪЕКТ_НОМЕР_ 48	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	squgyshugwqi_tf182akl2sml.jpg	1632
-ОБЪЕКТ_НОМЕР_ 49	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	zb3da16n7mf2n8h4.bmp	3309
-ОБЪЕКТ_НОМЕР_ 50	D:\Python_GB\HomeWork\Lesson_07\many_files\Text	файл	4mflm_4hwmfpcytw14_8wubs8cd.doc	3636
-ОБЪЕКТ_НОМЕР_ 51	D:\Python_GB\HomeWork\Lesson_07\many_files\Text	файл	5d762b3m4p4.txt	1506
-ОБЪЕКТ_НОМЕР_ 52	D:\Python_GB\HomeWork\Lesson_07\many_files\Text	файл	66wwd1rhas2_d3m6.doc	881
-ОБЪЕКТ_НОМЕР_ 53	D:\Python_GB\HomeWork\Lesson_07\many_files\Text	файл	7g67u3htwilbjpbwg7buec.txt	458
-ОБЪЕКТ_НОМЕР_ 54	D:\Python_GB\HomeWork\Lesson_07\many_files\Text	файл	8frr3nhk7y5oqxpdg464pd3a.docx	3505
-ОБЪЕКТ_НОМЕР_ 55	D:\Python_GB\HomeWork\Lesson_07\many_files\Text	файл	f9d8bxut6j.txt	1358
-ОБЪЕКТ_НОМЕР_ 56	D:\Python_GB\HomeWork\Lesson_07\many_files\Text	файл	fuejjir_0o0lq4xzq65nu.docx	2409
-ОБЪЕКТ_НОМЕР_ 57	D:\Python_GB\HomeWork\Lesson_07\many_files\Text	файл	jveqixnvi7uw.doc	3802
-ОБЪЕКТ_НОМЕР_ 58	D:\Python_GB\HomeWork\Lesson_07\many_files\Text	файл	y_281m7d.doc	4052
-ОБЪЕКТ_НОМЕР_ 59	D:\Python_GB\HomeWork\Lesson_07\many_files\Video	файл	4q1citq9ie8znt5.mov	444
-ОБЪЕКТ_НОМЕР_ 60	D:\Python_GB\HomeWork\Lesson_07\many_files\Video	файл	4rjk7hj4p6qt9dqrinue.mp4	1313
-ОБЪЕКТ_НОМЕР_ 61	D:\Python_GB\HomeWork\Lesson_07\many_files\Video	файл	4u8q39hbhmw0dxxtzghy1mi50m.mp4	2828
-ОБЪЕКТ_НОМЕР_ 62	D:\Python_GB\HomeWork\Lesson_07\many_files\Video	файл	7ms7pqi_63iynwwu11wt6c.mov	2251
-ОБЪЕКТ_НОМЕР_ 63	D:\Python_GB\HomeWork\Lesson_07\many_files\Video	файл	ebzeo61_xwe5up.avi	330
-ОБЪЕКТ_НОМЕР_ 64	D:\Python_GB\HomeWork\Lesson_07\many_files\Video	файл	eek077p_.mov	3579
-ОБЪЕКТ_НОМЕР_ 65	D:\Python_GB\HomeWork\Lesson_07\many_files\Video	файл	gzbvmu.avi	3231
+Объект_номер_1	D:\Python_GB\HomeWork\Lesson_07	файл	-re-_rename_0001.txt	0
+Объект_номер_2	D:\Python_GB\HomeWork\Lesson_07	файл	-re-_rename_0002.txt	0
+Объект_номер_3	D:\Python_GB\HomeWork\Lesson_07	файл	-re-_rename_0003.txt	0
+Объект_номер_4	D:\Python_GB\HomeWork\Lesson_07	файл	names.txt	72
+Объект_номер_5	D:\Python_GB\HomeWork\Lesson_07	файл	numbers.txt	126
+Объект_номер_6	D:\Python_GB\HomeWork\Lesson_07	файл	result.txt	237
+Объект_номер_7	D:\Python_GB\HomeWork\Lesson_07	файл	task_1.py	3153
+Объект_номер_8	D:\Python_GB\HomeWork\Lesson_07	файл	task_2.py	767
+Объект_номер_9	D:\Python_GB\HomeWork\Lesson_07	директория	file_handler	24336
+Объект_номер_10	D:\Python_GB\HomeWork\Lesson_07	директория	many_files	93885
+Объект_номер_11	D:\Python_GB\HomeWork\Lesson_07\file_handler	файл	my_functions.py	9443
+Объект_номер_12	D:\Python_GB\HomeWork\Lesson_07\file_handler	файл	__init__.py	28
+Объект_номер_13	D:\Python_GB\HomeWork\Lesson_07\file_handler	директория	__pycache__	14865
+Объект_номер_14	D:\Python_GB\HomeWork\Lesson_07\file_handler\__pycache__	файл	my_functions.cpython-311.pyc	14672
+Объект_номер_15	D:\Python_GB\HomeWork\Lesson_07\file_handler\__pycache__	файл	__init__.cpython-311.pyc	193
+Объект_номер_16	D:\Python_GB\HomeWork\Lesson_07\many_files	файл	0niw_rename_02.tor	932
+Объект_номер_17	D:\Python_GB\HomeWork\Lesson_07\many_files	файл	3ixayj5_v08erw682nnab.sh	3521
+Объект_номер_18	D:\Python_GB\HomeWork\Lesson_07\many_files	файл	7wn2k4uexkqe5xe76tg4tu.java	3656
+Объект_номер_19	D:\Python_GB\HomeWork\Lesson_07\many_files	файл	8ww1jdovamr1b0or.java	641
+Объект_номер_20	D:\Python_GB\HomeWork\Lesson_07\many_files	файл	9fz0s3wytft6zpu6lyg.sh	1019
+Объект_номер_21	D:\Python_GB\HomeWork\Lesson_07\many_files	файл	jn5y7bcv2c700.java	1959
+Объект_номер_22	D:\Python_GB\HomeWork\Lesson_07\many_files	файл	k2q2pb.java	2446
+Объект_номер_23	D:\Python_GB\HomeWork\Lesson_07\many_files	файл	x4c4_rename_01.tor	662
+Объект_номер_24	D:\Python_GB\HomeWork\Lesson_07\many_files	директория	Music	8758
+Объект_номер_25	D:\Python_GB\HomeWork\Lesson_07\many_files	директория	Pictures	34708
+Объект_номер_26	D:\Python_GB\HomeWork\Lesson_07\many_files	директория	Text	21607
+Объект_номер_27	D:\Python_GB\HomeWork\Lesson_07\many_files	директория	Video	13976
+Объект_номер_28	D:\Python_GB\HomeWork\Lesson_07\many_files\Music	файл	891gceo9h9usn.mp3	382
+Объект_номер_29	D:\Python_GB\HomeWork\Lesson_07\many_files\Music	файл	9lhzg4jfl.wav	1831
+Объект_номер_30	D:\Python_GB\HomeWork\Lesson_07\many_files\Music	файл	da1o83.wav	286
+Объект_номер_31	D:\Python_GB\HomeWork\Lesson_07\many_files\Music	файл	sx4uyrnouv8kg9o.mp3	2981
+Объект_номер_32	D:\Python_GB\HomeWork\Lesson_07\many_files\Music	файл	v2lp533ci3o7.aac	331
+Объект_номер_33	D:\Python_GB\HomeWork\Lesson_07\many_files\Music	файл	w7cvcy.wav	2947
+Объект_номер_34	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	28pq3_c305rp_ecc1of8l.jpg	513
+Объект_номер_35	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	6hy6ibbz2bt1s.png	4069
+Объект_номер_36	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	6rhs77v8p5dm_kri.gif	1713
+Объект_номер_37	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	9d0qdcfxomfbbktn_350e35zuq.jpg	2492
+Объект_номер_38	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	b1t6ocqkzqt7_pw8.bmp	1820
+Объект_номер_39	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	f3co98t44jk97cmcqmat.png	2745
+Объект_номер_40	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	fdacrs0e615x95gh897e.png	2742
+Объект_номер_41	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	g6h1kzhrc8q2c5w3g.bmp	3027
+Объект_номер_42	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	ihqxb98v909dzh5tm.jpg	1269
+Объект_номер_43	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	kz_asap3zx794d.jpg	1051
+Объект_номер_44	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	mpvte5dpvg.gif	1553
+Объект_номер_45	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	m_8qbe8vy909c6.bmp	662
+Объект_номер_46	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	ot_95h3_zx8_yb_mai1efyfra.bmp	2527
+Объект_номер_47	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	slxy1ig5xkysvz5j662weqxek0tdca.bmp	3584
+Объект_номер_48	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	squgyshugwqi_tf182akl2sml.jpg	1632
+Объект_номер_49	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	zb3da16n7mf2n8h4.bmp	3309
+Объект_номер_50	D:\Python_GB\HomeWork\Lesson_07\many_files\Text	файл	4mflm_4hwmfpcytw14_8wubs8cd.doc	3636
+Объект_номер_51	D:\Python_GB\HomeWork\Lesson_07\many_files\Text	файл	5d762b3m4p4.txt	1506
+Объект_номер_52	D:\Python_GB\HomeWork\Lesson_07\many_files\Text	файл	66wwd1rhas2_d3m6.doc	881
+Объект_номер_53	D:\Python_GB\HomeWork\Lesson_07\many_files\Text	файл	7g67u3htwilbjpbwg7buec.txt	458
+Объект_номер_54	D:\Python_GB\HomeWork\Lesson_07\many_files\Text	файл	8frr3nhk7y5oqxpdg464pd3a.docx	3505
+Объект_номер_55	D:\Python_GB\HomeWork\Lesson_07\many_files\Text	файл	f9d8bxut6j.txt	1358
+Объект_номер_56	D:\Python_GB\HomeWork\Lesson_07\many_files\Text	файл	fuejjir_0o0lq4xzq65nu.docx	2409
+Объект_номер_57	D:\Python_GB\HomeWork\Lesson_07\many_files\Text	файл	jveqixnvi7uw.doc	3802
+Объект_номер_58	D:\Python_GB\HomeWork\Lesson_07\many_files\Text	файл	y_281m7d.doc	4052
+Объект_номер_59	D:\Python_GB\HomeWork\Lesson_07\many_files\Video	файл	4q1citq9ie8znt5.mov	444
+Объект_номер_60	D:\Python_GB\HomeWork\Lesson_07\many_files\Video	файл	4rjk7hj4p6qt9dqrinue.mp4	1313
+Объект_номер_61	D:\Python_GB\HomeWork\Lesson_07\many_files\Video	файл	4u8q39hbhmw0dxxtzghy1mi50m.mp4	2828
+Объект_номер_62	D:\Python_GB\HomeWork\Lesson_07\many_files\Video	файл	7ms7pqi_63iynwwu11wt6c.mov	2251
+Объект_номер_63	D:\Python_GB\HomeWork\Lesson_07\many_files\Video	файл	ebzeo61_xwe5up.avi	330
+Объект_номер_64	D:\Python_GB\HomeWork\Lesson_07\many_files\Video	файл	eek077p_.mov	3579
+Объект_номер_65	D:\Python_GB\HomeWork\Lesson_07\many_files\Video	файл	gzbvmu.avi	3231

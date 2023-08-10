@@ -41,7 +41,7 @@ def all_info_dir(dir_path: str = DIR_PATH) -> None:
                                  OBJECT_INFO_KEYS[3]: name,
                                  OBJECT_INFO_KEYS[4]: get_size(full_path)})
         for i, object_info in enumerate(list_objects, start=1):
-            dict_objects[f'{OBJECT_INFO_KEYS[0]} {i}'] = dict(object_info)
+            dict_objects[f'{OBJECT_INFO_KEYS[0].capitalize()}{i}'] = dict(object_info)
     for object_num, _object_info in dict_objects.items():
         list_objects_2.append({OBJECT_INFO_KEYS[0]: str(object_num),
                                OBJECT_INFO_KEYS[1]: _object_info[OBJECT_INFO_KEYS[1]],
