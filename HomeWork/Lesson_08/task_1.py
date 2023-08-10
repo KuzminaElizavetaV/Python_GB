@@ -26,6 +26,7 @@ def get_size(path_object: str) -> int:
 def all_info_dir(dir_path: str = DIR_PATH) -> None:
     list_objects = []
     dict_objects = {}
+    list_objects_2 = []
     for root, dirs, files in walk(dir_path):
         for name in files:
             full_path = path.join(root, name)
@@ -40,22 +41,20 @@ def all_info_dir(dir_path: str = DIR_PATH) -> None:
                                  OBJECT_INFO_KEYS[3]: name,
                                  OBJECT_INFO_KEYS[4]: get_size(full_path)})
         for i, object_info in enumerate(list_objects, start=1):
-            dict_objects[f'{OBJECT_INFO_KEYS[0]}{i}'] = dict(object_info)
+            dict_objects[f'{OBJECT_INFO_KEYS[0]} {i}'] = dict(object_info)
+    for object_num, _object_info in dict_objects.items():
+        list_objects_2.append({OBJECT_INFO_KEYS[0]: str(object_num),
+                               OBJECT_INFO_KEYS[1]: _object_info[OBJECT_INFO_KEYS[1]],
+                               OBJECT_INFO_KEYS[2]: _object_info[OBJECT_INFO_KEYS[2]],
+                               OBJECT_INFO_KEYS[3]: _object_info[OBJECT_INFO_KEYS[3]],
+                               OBJECT_INFO_KEYS[4]: _object_info[OBJECT_INFO_KEYS[4]]})
     dir_name = dir_path.split('\\')[-1]
     with open(f'{FILE_NAME_START}{dir_name}.json', 'w', encoding='utf-8') as json_file:
         json.dump(dict_objects, json_file, indent=2, ensure_ascii=False)
     with open(f'{FILE_NAME_START}{dir_name}_v1.csv', 'w', newline='', encoding='utf-8') as csv_file:
-        writer = csv.DictWriter(csv_file, dialect='excel-tab', fieldnames=[OBJECT_INFO_KEYS[0], OBJECT_INFO_KEYS[1],
-                                                                           OBJECT_INFO_KEYS[2], OBJECT_INFO_KEYS[3],
-                                                                           OBJECT_INFO_KEYS[4]])
+        writer = csv.DictWriter(csv_file, dialect='excel-tab', fieldnames=list_objects_2[0].keys())
         writer.writeheader()
-        rows = []
-        for object_num, _object_info in dict_objects.items():
-            rows.append({OBJECT_INFO_KEYS[0]: str(object_num), OBJECT_INFO_KEYS[1]: _object_info[OBJECT_INFO_KEYS[1]],
-                         OBJECT_INFO_KEYS[2]: _object_info[OBJECT_INFO_KEYS[2]],
-                         OBJECT_INFO_KEYS[3]: _object_info[OBJECT_INFO_KEYS[3]],
-                         OBJECT_INFO_KEYS[4]: _object_info[OBJECT_INFO_KEYS[4]]})
-        writer.writerows(rows)
+        writer.writerows(list_objects_2)
     with open(f'{FILE_NAME_START}{dir_name}_v2.csv', 'w', newline='', encoding='utf-8') as csv_file:
         writer = csv.DictWriter(csv_file, dialect='excel-tab', fieldnames=list_objects[0].keys())
         writer.writeheader()
