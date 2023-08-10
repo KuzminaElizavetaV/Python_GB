@@ -2,7 +2,7 @@ from os import path, listdir, walk
 import csv
 import json
 import pickle
-__all__ = ['make_json', 'data2json', 'json2csv', 'change_csv2json', 'serialize_json_files', 'pickle_list_of_dicts2csv',
+__all__ = ['make_json', 'data2json', 'json2csv', 'change_csv2json', 'json2pickle', 'pickle_list_of_dicts2csv',
            'csv2pickle_string', 'all_info_dir']
 
 FILE_NAME_JSON_1 = r"D:\Python_GB\HomeWork\Lesson_08\result.json"
@@ -12,8 +12,8 @@ FILE_NAME_CSV_1 = r"D:\Python_GB\HomeWork\Lesson_08\json_data.csv"
 FILE_NAME_JSON_3 = r"D:\Python_GB\HomeWork\Lesson_08\csv_data.json"
 DIR_PATH = r"D:\Python_GB\HomeWork\Lesson_08"
 FILE_NAME_PICKLE = r"D:\Python_GB\HomeWork\Lesson_08\csv_data.pickle"
-FILE_NAME_CSV = r"D:\Python_GB\Lesson_08\csv_data_pickle.csv"
-DIR_PATH_ = r'D:\Python_GB\HomeWork\Lesson_07'
+FILE_NAME_CSV = r"D:\Python_GB\HomeWork\Lesson_08\csv_data_pickle.csv"
+DIR_PATH_ = r'D:\Python_GB\HomeWork\Lesson_08'
 FILE_NAME_START = 'ALL_INFO_DIR_'
 TYPE_OBJECT = ('файл', 'директория')
 OBJECT_INFO_KEYS = ('ОБЪЕКТ_НОМЕР_', 'РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ', 'ТИП_ОБЪЕКТА', 'ИМЯ_ОБЪЕКТА', 'РАЗМЕР_В_БАЙТАХ')
@@ -76,7 +76,6 @@ def json2csv(json_file_path: str = FILE_NAME_JSON_2, csv_file_path: str = FILE_N
     for access_level, users in data.items():
         for user_id, name in users.items():
             rows.append({'access_level': int(access_level), 'id': int(user_id), 'name': name})
-    print(rows)
     with open(csv_file_path, 'w', encoding='utf-8') as csv_file:
         csv_dict = csv.DictWriter(csv_file, dialect='excel-tab', fieldnames=['access_level', 'id', 'name'])
         csv_dict.writeheader()
@@ -97,7 +96,6 @@ def change_csv2json(csv_file_path: str = FILE_NAME_CSV_1, json_file_path: str = 
         data = []
         user_data = {}
         for i, row in enumerate(csv_reader):
-            print(row)
             if i and row != []:
                 access_level, user_id, name = row
                 user_data['access_level'] = int(access_level)
@@ -109,7 +107,7 @@ def change_csv2json(csv_file_path: str = FILE_NAME_CSV_1, json_file_path: str = 
             json.dump(data, json_file, indent=2, ensure_ascii=False)
 
 
-def serialize_json_files(dir_path: str = DIR_PATH) -> None:
+def json2pickle(dir_path: str = DIR_PATH) -> None:
     """
     Функция ищет файлы.json в директории и сохраняет их содержимое в виде одноимённых файлов.pickle
     :param dir_path: путь к директории
@@ -200,7 +198,7 @@ def all_info_dir(dir_path: str = DIR_PATH) -> None:
         for i, object_info in enumerate(list_objects, start=1):
             dict_objects[f'{OBJECT_INFO_KEYS[0].capitalize()}{i}'] = dict(object_info)
     for object_num, _object_info in dict_objects.items():
-        list_objects_2.append({OBJECT_INFO_KEYS[0]: str(object_num),
+        list_objects_2.append({OBJECT_INFO_KEYS[0]: object_num,
                                OBJECT_INFO_KEYS[1]: _object_info[OBJECT_INFO_KEYS[1]],
                                OBJECT_INFO_KEYS[2]: _object_info[OBJECT_INFO_KEYS[2]],
                                OBJECT_INFO_KEYS[3]: _object_info[OBJECT_INFO_KEYS[3]],
