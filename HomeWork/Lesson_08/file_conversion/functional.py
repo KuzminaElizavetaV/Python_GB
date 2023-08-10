@@ -2,7 +2,7 @@ from os import path, listdir, walk
 import csv
 import json
 import pickle
-__all__ = ['make_json', 'data2json', 'json2csv', 'change_csv2json', 'json2pickle', 'pickle_list_of_dicts2csv',
+__all__ = ['make_json', 'data2json', 'json2csv', 'change_csv2json', 'json2pickle', 'list_of_dicts_pickle2csv',
            'csv2pickle_string', 'all_info_dir']
 
 FILE_NAME_JSON_1 = r"D:\Python_GB\HomeWork\Lesson_08\result.json"
@@ -120,7 +120,7 @@ def json2pickle(dir_path: str = DIR_PATH) -> None:
             pickle.dump(data, pickle_file)
 
 
-def pickle_list_of_dicts2csv(pickle_file_path: str = FILE_NAME_PICKLE, csv_file_path: str = FILE_NAME_CSV) -> None:
+def list_of_dicts_pickle2csv(pickle_file_path: str = FILE_NAME_PICKLE, csv_file_path: str = FILE_NAME_CSV) -> None:
     """
     Функция преобразует файл.pickle, хранящий список словарей, в табличный файл.csv, извлекая ключи словаря из
     файла.pickle для заголовков столбца
