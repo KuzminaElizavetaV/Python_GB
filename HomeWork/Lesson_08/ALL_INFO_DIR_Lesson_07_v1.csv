@@ -1,66 +1,66 @@
-object_number	{parameters: parent_directory, type_object, name, size_in_bytes}
-object_number 1	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07', 'type_object': 'file', 'name': '-re-_rename_0001.txt', 'size_in_bytes': 0}
-object_number 2	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07', 'type_object': 'file', 'name': '-re-_rename_0002.txt', 'size_in_bytes': 0}
-object_number 3	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07', 'type_object': 'file', 'name': '-re-_rename_0003.txt', 'size_in_bytes': 0}
-object_number 4	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07', 'type_object': 'file', 'name': 'names.txt', 'size_in_bytes': 72}
-object_number 5	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07', 'type_object': 'file', 'name': 'numbers.txt', 'size_in_bytes': 126}
-object_number 6	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07', 'type_object': 'file', 'name': 'result.txt', 'size_in_bytes': 237}
-object_number 7	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07', 'type_object': 'file', 'name': 'task_1.py', 'size_in_bytes': 3153}
-object_number 8	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07', 'type_object': 'file', 'name': 'task_2.py', 'size_in_bytes': 767}
-object_number 9	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07', 'type_object': 'directory', 'name': 'file_handler', 'size_in_bytes': 24336}
-object_number 10	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07', 'type_object': 'directory', 'name': 'many_files', 'size_in_bytes': 93885}
-object_number 11	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\file_handler', 'type_object': 'file', 'name': 'my_functions.py', 'size_in_bytes': 9443}
-object_number 12	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\file_handler', 'type_object': 'file', 'name': '__init__.py', 'size_in_bytes': 28}
-object_number 13	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\file_handler', 'type_object': 'directory', 'name': '__pycache__', 'size_in_bytes': 14865}
-object_number 14	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\file_handler\\__pycache__', 'type_object': 'file', 'name': 'my_functions.cpython-311.pyc', 'size_in_bytes': 14672}
-object_number 15	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\file_handler\\__pycache__', 'type_object': 'file', 'name': '__init__.cpython-311.pyc', 'size_in_bytes': 193}
-object_number 16	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files', 'type_object': 'file', 'name': '0niw_rename_02.tor', 'size_in_bytes': 932}
-object_number 17	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files', 'type_object': 'file', 'name': '3ixayj5_v08erw682nnab.sh', 'size_in_bytes': 3521}
-object_number 18	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files', 'type_object': 'file', 'name': '7wn2k4uexkqe5xe76tg4tu.java', 'size_in_bytes': 3656}
-object_number 19	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files', 'type_object': 'file', 'name': '8ww1jdovamr1b0or.java', 'size_in_bytes': 641}
-object_number 20	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files', 'type_object': 'file', 'name': '9fz0s3wytft6zpu6lyg.sh', 'size_in_bytes': 1019}
-object_number 21	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files', 'type_object': 'file', 'name': 'jn5y7bcv2c700.java', 'size_in_bytes': 1959}
-object_number 22	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files', 'type_object': 'file', 'name': 'k2q2pb.java', 'size_in_bytes': 2446}
-object_number 23	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files', 'type_object': 'file', 'name': 'x4c4_rename_01.tor', 'size_in_bytes': 662}
-object_number 24	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files', 'type_object': 'directory', 'name': 'Music', 'size_in_bytes': 8758}
-object_number 25	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files', 'type_object': 'directory', 'name': 'Pictures', 'size_in_bytes': 34708}
-object_number 26	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files', 'type_object': 'directory', 'name': 'Text', 'size_in_bytes': 21607}
-object_number 27	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files', 'type_object': 'directory', 'name': 'Video', 'size_in_bytes': 13976}
-object_number 28	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Music', 'type_object': 'file', 'name': '891gceo9h9usn.mp3', 'size_in_bytes': 382}
-object_number 29	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Music', 'type_object': 'file', 'name': '9lhzg4jfl.wav', 'size_in_bytes': 1831}
-object_number 30	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Music', 'type_object': 'file', 'name': 'da1o83.wav', 'size_in_bytes': 286}
-object_number 31	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Music', 'type_object': 'file', 'name': 'sx4uyrnouv8kg9o.mp3', 'size_in_bytes': 2981}
-object_number 32	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Music', 'type_object': 'file', 'name': 'v2lp533ci3o7.aac', 'size_in_bytes': 331}
-object_number 33	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Music', 'type_object': 'file', 'name': 'w7cvcy.wav', 'size_in_bytes': 2947}
-object_number 34	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures', 'type_object': 'file', 'name': '28pq3_c305rp_ecc1of8l.jpg', 'size_in_bytes': 513}
-object_number 35	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures', 'type_object': 'file', 'name': '6hy6ibbz2bt1s.png', 'size_in_bytes': 4069}
-object_number 36	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures', 'type_object': 'file', 'name': '6rhs77v8p5dm_kri.gif', 'size_in_bytes': 1713}
-object_number 37	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures', 'type_object': 'file', 'name': '9d0qdcfxomfbbktn_350e35zuq.jpg', 'size_in_bytes': 2492}
-object_number 38	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures', 'type_object': 'file', 'name': 'b1t6ocqkzqt7_pw8.bmp', 'size_in_bytes': 1820}
-object_number 39	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures', 'type_object': 'file', 'name': 'f3co98t44jk97cmcqmat.png', 'size_in_bytes': 2745}
-object_number 40	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures', 'type_object': 'file', 'name': 'fdacrs0e615x95gh897e.png', 'size_in_bytes': 2742}
-object_number 41	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures', 'type_object': 'file', 'name': 'g6h1kzhrc8q2c5w3g.bmp', 'size_in_bytes': 3027}
-object_number 42	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures', 'type_object': 'file', 'name': 'ihqxb98v909dzh5tm.jpg', 'size_in_bytes': 1269}
-object_number 43	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures', 'type_object': 'file', 'name': 'kz_asap3zx794d.jpg', 'size_in_bytes': 1051}
-object_number 44	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures', 'type_object': 'file', 'name': 'mpvte5dpvg.gif', 'size_in_bytes': 1553}
-object_number 45	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures', 'type_object': 'file', 'name': 'm_8qbe8vy909c6.bmp', 'size_in_bytes': 662}
-object_number 46	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures', 'type_object': 'file', 'name': 'ot_95h3_zx8_yb_mai1efyfra.bmp', 'size_in_bytes': 2527}
-object_number 47	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures', 'type_object': 'file', 'name': 'slxy1ig5xkysvz5j662weqxek0tdca.bmp', 'size_in_bytes': 3584}
-object_number 48	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures', 'type_object': 'file', 'name': 'squgyshugwqi_tf182akl2sml.jpg', 'size_in_bytes': 1632}
-object_number 49	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures', 'type_object': 'file', 'name': 'zb3da16n7mf2n8h4.bmp', 'size_in_bytes': 3309}
-object_number 50	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Text', 'type_object': 'file', 'name': '4mflm_4hwmfpcytw14_8wubs8cd.doc', 'size_in_bytes': 3636}
-object_number 51	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Text', 'type_object': 'file', 'name': '5d762b3m4p4.txt', 'size_in_bytes': 1506}
-object_number 52	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Text', 'type_object': 'file', 'name': '66wwd1rhas2_d3m6.doc', 'size_in_bytes': 881}
-object_number 53	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Text', 'type_object': 'file', 'name': '7g67u3htwilbjpbwg7buec.txt', 'size_in_bytes': 458}
-object_number 54	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Text', 'type_object': 'file', 'name': '8frr3nhk7y5oqxpdg464pd3a.docx', 'size_in_bytes': 3505}
-object_number 55	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Text', 'type_object': 'file', 'name': 'f9d8bxut6j.txt', 'size_in_bytes': 1358}
-object_number 56	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Text', 'type_object': 'file', 'name': 'fuejjir_0o0lq4xzq65nu.docx', 'size_in_bytes': 2409}
-object_number 57	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Text', 'type_object': 'file', 'name': 'jveqixnvi7uw.doc', 'size_in_bytes': 3802}
-object_number 58	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Text', 'type_object': 'file', 'name': 'y_281m7d.doc', 'size_in_bytes': 4052}
-object_number 59	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Video', 'type_object': 'file', 'name': '4q1citq9ie8znt5.mov', 'size_in_bytes': 444}
-object_number 60	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Video', 'type_object': 'file', 'name': '4rjk7hj4p6qt9dqrinue.mp4', 'size_in_bytes': 1313}
-object_number 61	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Video', 'type_object': 'file', 'name': '4u8q39hbhmw0dxxtzghy1mi50m.mp4', 'size_in_bytes': 2828}
-object_number 62	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Video', 'type_object': 'file', 'name': '7ms7pqi_63iynwwu11wt6c.mov', 'size_in_bytes': 2251}
-object_number 63	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Video', 'type_object': 'file', 'name': 'ebzeo61_xwe5up.avi', 'size_in_bytes': 330}
-object_number 64	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Video', 'type_object': 'file', 'name': 'eek077p_.mov', 'size_in_bytes': 3579}
-object_number 65	{'parent_directory': 'D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Video', 'type_object': 'file', 'name': 'gzbvmu.avi', 'size_in_bytes': 3231}
+ОБЪЕКТ_НОМЕР_	РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ	ТИП_ОБЪЕКТА	ИМЯ_ОБЪЕКТА	РАЗМЕР_В_БАЙТАХ
+ОБЪЕКТ_НОМЕР_1	D:\Python_GB\HomeWork\Lesson_07	файл	-re-_rename_0001.txt	0
+ОБЪЕКТ_НОМЕР_2	D:\Python_GB\HomeWork\Lesson_07	файл	-re-_rename_0002.txt	0
+ОБЪЕКТ_НОМЕР_3	D:\Python_GB\HomeWork\Lesson_07	файл	-re-_rename_0003.txt	0
+ОБЪЕКТ_НОМЕР_4	D:\Python_GB\HomeWork\Lesson_07	файл	names.txt	72
+ОБЪЕКТ_НОМЕР_5	D:\Python_GB\HomeWork\Lesson_07	файл	numbers.txt	126
+ОБЪЕКТ_НОМЕР_6	D:\Python_GB\HomeWork\Lesson_07	файл	result.txt	237
+ОБЪЕКТ_НОМЕР_7	D:\Python_GB\HomeWork\Lesson_07	файл	task_1.py	3153
+ОБЪЕКТ_НОМЕР_8	D:\Python_GB\HomeWork\Lesson_07	файл	task_2.py	767
+ОБЪЕКТ_НОМЕР_9	D:\Python_GB\HomeWork\Lesson_07	директория	file_handler	24336
+ОБЪЕКТ_НОМЕР_10	D:\Python_GB\HomeWork\Lesson_07	директория	many_files	93885
+ОБЪЕКТ_НОМЕР_11	D:\Python_GB\HomeWork\Lesson_07\file_handler	файл	my_functions.py	9443
+ОБЪЕКТ_НОМЕР_12	D:\Python_GB\HomeWork\Lesson_07\file_handler	файл	__init__.py	28
+ОБЪЕКТ_НОМЕР_13	D:\Python_GB\HomeWork\Lesson_07\file_handler	директория	__pycache__	14865
+ОБЪЕКТ_НОМЕР_14	D:\Python_GB\HomeWork\Lesson_07\file_handler\__pycache__	файл	my_functions.cpython-311.pyc	14672
+ОБЪЕКТ_НОМЕР_15	D:\Python_GB\HomeWork\Lesson_07\file_handler\__pycache__	файл	__init__.cpython-311.pyc	193
+ОБЪЕКТ_НОМЕР_16	D:\Python_GB\HomeWork\Lesson_07\many_files	файл	0niw_rename_02.tor	932
+ОБЪЕКТ_НОМЕР_17	D:\Python_GB\HomeWork\Lesson_07\many_files	файл	3ixayj5_v08erw682nnab.sh	3521
+ОБЪЕКТ_НОМЕР_18	D:\Python_GB\HomeWork\Lesson_07\many_files	файл	7wn2k4uexkqe5xe76tg4tu.java	3656
+ОБЪЕКТ_НОМЕР_19	D:\Python_GB\HomeWork\Lesson_07\many_files	файл	8ww1jdovamr1b0or.java	641
+ОБЪЕКТ_НОМЕР_20	D:\Python_GB\HomeWork\Lesson_07\many_files	файл	9fz0s3wytft6zpu6lyg.sh	1019
+ОБЪЕКТ_НОМЕР_21	D:\Python_GB\HomeWork\Lesson_07\many_files	файл	jn5y7bcv2c700.java	1959
+ОБЪЕКТ_НОМЕР_22	D:\Python_GB\HomeWork\Lesson_07\many_files	файл	k2q2pb.java	2446
+ОБЪЕКТ_НОМЕР_23	D:\Python_GB\HomeWork\Lesson_07\many_files	файл	x4c4_rename_01.tor	662
+ОБЪЕКТ_НОМЕР_24	D:\Python_GB\HomeWork\Lesson_07\many_files	директория	Music	8758
+ОБЪЕКТ_НОМЕР_25	D:\Python_GB\HomeWork\Lesson_07\many_files	директория	Pictures	34708
+ОБЪЕКТ_НОМЕР_26	D:\Python_GB\HomeWork\Lesson_07\many_files	директория	Text	21607
+ОБЪЕКТ_НОМЕР_27	D:\Python_GB\HomeWork\Lesson_07\many_files	директория	Video	13976
+ОБЪЕКТ_НОМЕР_28	D:\Python_GB\HomeWork\Lesson_07\many_files\Music	файл	891gceo9h9usn.mp3	382
+ОБЪЕКТ_НОМЕР_29	D:\Python_GB\HomeWork\Lesson_07\many_files\Music	файл	9lhzg4jfl.wav	1831
+ОБЪЕКТ_НОМЕР_30	D:\Python_GB\HomeWork\Lesson_07\many_files\Music	файл	da1o83.wav	286
+ОБЪЕКТ_НОМЕР_31	D:\Python_GB\HomeWork\Lesson_07\many_files\Music	файл	sx4uyrnouv8kg9o.mp3	2981
+ОБЪЕКТ_НОМЕР_32	D:\Python_GB\HomeWork\Lesson_07\many_files\Music	файл	v2lp533ci3o7.aac	331
+ОБЪЕКТ_НОМЕР_33	D:\Python_GB\HomeWork\Lesson_07\many_files\Music	файл	w7cvcy.wav	2947
+ОБЪЕКТ_НОМЕР_34	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	28pq3_c305rp_ecc1of8l.jpg	513
+ОБЪЕКТ_НОМЕР_35	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	6hy6ibbz2bt1s.png	4069
+ОБЪЕКТ_НОМЕР_36	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	6rhs77v8p5dm_kri.gif	1713
+ОБЪЕКТ_НОМЕР_37	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	9d0qdcfxomfbbktn_350e35zuq.jpg	2492
+ОБЪЕКТ_НОМЕР_38	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	b1t6ocqkzqt7_pw8.bmp	1820
+ОБЪЕКТ_НОМЕР_39	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	f3co98t44jk97cmcqmat.png	2745
+ОБЪЕКТ_НОМЕР_40	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	fdacrs0e615x95gh897e.png	2742
+ОБЪЕКТ_НОМЕР_41	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	g6h1kzhrc8q2c5w3g.bmp	3027
+ОБЪЕКТ_НОМЕР_42	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	ihqxb98v909dzh5tm.jpg	1269
+ОБЪЕКТ_НОМЕР_43	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	kz_asap3zx794d.jpg	1051
+ОБЪЕКТ_НОМЕР_44	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	mpvte5dpvg.gif	1553
+ОБЪЕКТ_НОМЕР_45	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	m_8qbe8vy909c6.bmp	662
+ОБЪЕКТ_НОМЕР_46	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	ot_95h3_zx8_yb_mai1efyfra.bmp	2527
+ОБЪЕКТ_НОМЕР_47	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	slxy1ig5xkysvz5j662weqxek0tdca.bmp	3584
+ОБЪЕКТ_НОМЕР_48	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	squgyshugwqi_tf182akl2sml.jpg	1632
+ОБЪЕКТ_НОМЕР_49	D:\Python_GB\HomeWork\Lesson_07\many_files\Pictures	файл	zb3da16n7mf2n8h4.bmp	3309
+ОБЪЕКТ_НОМЕР_50	D:\Python_GB\HomeWork\Lesson_07\many_files\Text	файл	4mflm_4hwmfpcytw14_8wubs8cd.doc	3636
+ОБЪЕКТ_НОМЕР_51	D:\Python_GB\HomeWork\Lesson_07\many_files\Text	файл	5d762b3m4p4.txt	1506
+ОБЪЕКТ_НОМЕР_52	D:\Python_GB\HomeWork\Lesson_07\many_files\Text	файл	66wwd1rhas2_d3m6.doc	881
+ОБЪЕКТ_НОМЕР_53	D:\Python_GB\HomeWork\Lesson_07\many_files\Text	файл	7g67u3htwilbjpbwg7buec.txt	458
+ОБЪЕКТ_НОМЕР_54	D:\Python_GB\HomeWork\Lesson_07\many_files\Text	файл	8frr3nhk7y5oqxpdg464pd3a.docx	3505
+ОБЪЕКТ_НОМЕР_55	D:\Python_GB\HomeWork\Lesson_07\many_files\Text	файл	f9d8bxut6j.txt	1358
+ОБЪЕКТ_НОМЕР_56	D:\Python_GB\HomeWork\Lesson_07\many_files\Text	файл	fuejjir_0o0lq4xzq65nu.docx	2409
+ОБЪЕКТ_НОМЕР_57	D:\Python_GB\HomeWork\Lesson_07\many_files\Text	файл	jveqixnvi7uw.doc	3802
+ОБЪЕКТ_НОМЕР_58	D:\Python_GB\HomeWork\Lesson_07\many_files\Text	файл	y_281m7d.doc	4052
+ОБЪЕКТ_НОМЕР_59	D:\Python_GB\HomeWork\Lesson_07\many_files\Video	файл	4q1citq9ie8znt5.mov	444
+ОБЪЕКТ_НОМЕР_60	D:\Python_GB\HomeWork\Lesson_07\many_files\Video	файл	4rjk7hj4p6qt9dqrinue.mp4	1313
+ОБЪЕКТ_НОМЕР_61	D:\Python_GB\HomeWork\Lesson_07\many_files\Video	файл	4u8q39hbhmw0dxxtzghy1mi50m.mp4	2828
+ОБЪЕКТ_НОМЕР_62	D:\Python_GB\HomeWork\Lesson_07\many_files\Video	файл	7ms7pqi_63iynwwu11wt6c.mov	2251
+ОБЪЕКТ_НОМЕР_63	D:\Python_GB\HomeWork\Lesson_07\many_files\Video	файл	ebzeo61_xwe5up.avi	330
+ОБЪЕКТ_НОМЕР_64	D:\Python_GB\HomeWork\Lesson_07\many_files\Video	файл	eek077p_.mov	3579
+ОБЪЕКТ_НОМЕР_65	D:\Python_GB\HomeWork\Lesson_07\many_files\Video	файл	gzbvmu.avi	3231

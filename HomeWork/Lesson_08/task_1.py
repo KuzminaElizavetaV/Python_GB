@@ -10,9 +10,8 @@ import pickle
 #   файлов и директорий.
 DIR_PATH = r'D:\Python_GB\HomeWork\Lesson_07'
 FILE_NAME_START = 'ALL_INFO_DIR_'
-TYPE_OBJECT = ('file', 'directory')
-OBJECT_INFO_KEYS = ('object_number', 'parent_directory', 'type_object', 'name', 'size_in_bytes')
-HEADER_CSV = ('object_number', '{parameters: ' + ', '.join(OBJECT_INFO_KEYS[1:]) + '}')
+TYPE_OBJECT = ('файл', 'директория')
+OBJECT_INFO_KEYS = ('ОБЪЕКТ_НОМЕР_', 'РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ', 'ТИП_ОБЪЕКТА', 'ИМЯ_ОБЪЕКТА', 'РАЗМЕР_В_БАЙТАХ')
 
 
 def get_size(path_object: str) -> int:
@@ -41,16 +40,21 @@ def all_info_dir(dir_path: str = DIR_PATH) -> None:
                                  OBJECT_INFO_KEYS[3]: name,
                                  OBJECT_INFO_KEYS[4]: get_size(full_path)})
         for i, object_info in enumerate(list_objects, start=1):
-            dict_objects[f'{OBJECT_INFO_KEYS[0]} {i}'] = dict(object_info)
+            dict_objects[f'{OBJECT_INFO_KEYS[0]}{i}'] = dict(object_info)
     dir_name = dir_path.split('\\')[-1]
     with open(f'{FILE_NAME_START}{dir_name}.json', 'w', encoding='utf-8') as json_file:
         json.dump(dict_objects, json_file, indent=2, ensure_ascii=False)
     with open(f'{FILE_NAME_START}{dir_name}_v1.csv', 'w', newline='', encoding='utf-8') as csv_file:
-        writer = csv.DictWriter(csv_file, dialect='excel-tab', fieldnames=[HEADER_CSV[0], HEADER_CSV[1]])
+        writer = csv.DictWriter(csv_file, dialect='excel-tab', fieldnames=[OBJECT_INFO_KEYS[0], OBJECT_INFO_KEYS[1],
+                                                                           OBJECT_INFO_KEYS[2], OBJECT_INFO_KEYS[3],
+                                                                           OBJECT_INFO_KEYS[4]])
         writer.writeheader()
         rows = []
         for object_num, _object_info in dict_objects.items():
-            rows.append({HEADER_CSV[0]: str(object_num), HEADER_CSV[1]: dict(_object_info)})
+            rows.append({OBJECT_INFO_KEYS[0]: str(object_num), OBJECT_INFO_KEYS[1]: _object_info[OBJECT_INFO_KEYS[1]],
+                         OBJECT_INFO_KEYS[2]: _object_info[OBJECT_INFO_KEYS[2]],
+                         OBJECT_INFO_KEYS[3]: _object_info[OBJECT_INFO_KEYS[3]],
+                         OBJECT_INFO_KEYS[4]: _object_info[OBJECT_INFO_KEYS[4]]})
         writer.writerows(rows)
     with open(f'{FILE_NAME_START}{dir_name}_v2.csv', 'w', newline='', encoding='utf-8') as csv_file:
         writer = csv.DictWriter(csv_file, dialect='excel-tab', fieldnames=list_objects[0].keys())

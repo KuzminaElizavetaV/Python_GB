@@ -1,392 +1,392 @@
 {
-  "object_number 1": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07",
-    "type_object": "file",
-    "name": "-re-_rename_0001.txt",
-    "size_in_bytes": 0
-  },
-  "object_number 2": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07",
-    "type_object": "file",
-    "name": "-re-_rename_0002.txt",
-    "size_in_bytes": 0
-  },
-  "object_number 3": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07",
-    "type_object": "file",
-    "name": "-re-_rename_0003.txt",
-    "size_in_bytes": 0
-  },
-  "object_number 4": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07",
-    "type_object": "file",
-    "name": "names.txt",
-    "size_in_bytes": 72
-  },
-  "object_number 5": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07",
-    "type_object": "file",
-    "name": "numbers.txt",
-    "size_in_bytes": 126
-  },
-  "object_number 6": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07",
-    "type_object": "file",
-    "name": "result.txt",
-    "size_in_bytes": 237
-  },
-  "object_number 7": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07",
-    "type_object": "file",
-    "name": "task_1.py",
-    "size_in_bytes": 3153
-  },
-  "object_number 8": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07",
-    "type_object": "file",
-    "name": "task_2.py",
-    "size_in_bytes": 767
-  },
-  "object_number 9": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07",
-    "type_object": "directory",
-    "name": "file_handler",
-    "size_in_bytes": 24336
-  },
-  "object_number 10": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07",
-    "type_object": "directory",
-    "name": "many_files",
-    "size_in_bytes": 93885
-  },
-  "object_number 11": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\file_handler",
-    "type_object": "file",
-    "name": "my_functions.py",
-    "size_in_bytes": 9443
-  },
-  "object_number 12": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\file_handler",
-    "type_object": "file",
-    "name": "__init__.py",
-    "size_in_bytes": 28
-  },
-  "object_number 13": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\file_handler",
-    "type_object": "directory",
-    "name": "__pycache__",
-    "size_in_bytes": 14865
-  },
-  "object_number 14": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\file_handler\\__pycache__",
-    "type_object": "file",
-    "name": "my_functions.cpython-311.pyc",
-    "size_in_bytes": 14672
-  },
-  "object_number 15": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\file_handler\\__pycache__",
-    "type_object": "file",
-    "name": "__init__.cpython-311.pyc",
-    "size_in_bytes": 193
-  },
-  "object_number 16": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files",
-    "type_object": "file",
-    "name": "0niw_rename_02.tor",
-    "size_in_bytes": 932
-  },
-  "object_number 17": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files",
-    "type_object": "file",
-    "name": "3ixayj5_v08erw682nnab.sh",
-    "size_in_bytes": 3521
-  },
-  "object_number 18": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files",
-    "type_object": "file",
-    "name": "7wn2k4uexkqe5xe76tg4tu.java",
-    "size_in_bytes": 3656
-  },
-  "object_number 19": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files",
-    "type_object": "file",
-    "name": "8ww1jdovamr1b0or.java",
-    "size_in_bytes": 641
-  },
-  "object_number 20": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files",
-    "type_object": "file",
-    "name": "9fz0s3wytft6zpu6lyg.sh",
-    "size_in_bytes": 1019
-  },
-  "object_number 21": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files",
-    "type_object": "file",
-    "name": "jn5y7bcv2c700.java",
-    "size_in_bytes": 1959
-  },
-  "object_number 22": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files",
-    "type_object": "file",
-    "name": "k2q2pb.java",
-    "size_in_bytes": 2446
-  },
-  "object_number 23": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files",
-    "type_object": "file",
-    "name": "x4c4_rename_01.tor",
-    "size_in_bytes": 662
-  },
-  "object_number 24": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files",
-    "type_object": "directory",
-    "name": "Music",
-    "size_in_bytes": 8758
-  },
-  "object_number 25": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files",
-    "type_object": "directory",
-    "name": "Pictures",
-    "size_in_bytes": 34708
-  },
-  "object_number 26": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files",
-    "type_object": "directory",
-    "name": "Text",
-    "size_in_bytes": 21607
-  },
-  "object_number 27": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files",
-    "type_object": "directory",
-    "name": "Video",
-    "size_in_bytes": 13976
-  },
-  "object_number 28": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Music",
-    "type_object": "file",
-    "name": "891gceo9h9usn.mp3",
-    "size_in_bytes": 382
-  },
-  "object_number 29": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Music",
-    "type_object": "file",
-    "name": "9lhzg4jfl.wav",
-    "size_in_bytes": 1831
-  },
-  "object_number 30": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Music",
-    "type_object": "file",
-    "name": "da1o83.wav",
-    "size_in_bytes": 286
-  },
-  "object_number 31": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Music",
-    "type_object": "file",
-    "name": "sx4uyrnouv8kg9o.mp3",
-    "size_in_bytes": 2981
-  },
-  "object_number 32": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Music",
-    "type_object": "file",
-    "name": "v2lp533ci3o7.aac",
-    "size_in_bytes": 331
-  },
-  "object_number 33": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Music",
-    "type_object": "file",
-    "name": "w7cvcy.wav",
-    "size_in_bytes": 2947
-  },
-  "object_number 34": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures",
-    "type_object": "file",
-    "name": "28pq3_c305rp_ecc1of8l.jpg",
-    "size_in_bytes": 513
-  },
-  "object_number 35": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures",
-    "type_object": "file",
-    "name": "6hy6ibbz2bt1s.png",
-    "size_in_bytes": 4069
-  },
-  "object_number 36": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures",
-    "type_object": "file",
-    "name": "6rhs77v8p5dm_kri.gif",
-    "size_in_bytes": 1713
-  },
-  "object_number 37": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures",
-    "type_object": "file",
-    "name": "9d0qdcfxomfbbktn_350e35zuq.jpg",
-    "size_in_bytes": 2492
-  },
-  "object_number 38": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures",
-    "type_object": "file",
-    "name": "b1t6ocqkzqt7_pw8.bmp",
-    "size_in_bytes": 1820
-  },
-  "object_number 39": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures",
-    "type_object": "file",
-    "name": "f3co98t44jk97cmcqmat.png",
-    "size_in_bytes": 2745
-  },
-  "object_number 40": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures",
-    "type_object": "file",
-    "name": "fdacrs0e615x95gh897e.png",
-    "size_in_bytes": 2742
-  },
-  "object_number 41": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures",
-    "type_object": "file",
-    "name": "g6h1kzhrc8q2c5w3g.bmp",
-    "size_in_bytes": 3027
-  },
-  "object_number 42": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures",
-    "type_object": "file",
-    "name": "ihqxb98v909dzh5tm.jpg",
-    "size_in_bytes": 1269
-  },
-  "object_number 43": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures",
-    "type_object": "file",
-    "name": "kz_asap3zx794d.jpg",
-    "size_in_bytes": 1051
-  },
-  "object_number 44": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures",
-    "type_object": "file",
-    "name": "mpvte5dpvg.gif",
-    "size_in_bytes": 1553
-  },
-  "object_number 45": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures",
-    "type_object": "file",
-    "name": "m_8qbe8vy909c6.bmp",
-    "size_in_bytes": 662
-  },
-  "object_number 46": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures",
-    "type_object": "file",
-    "name": "ot_95h3_zx8_yb_mai1efyfra.bmp",
-    "size_in_bytes": 2527
-  },
-  "object_number 47": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures",
-    "type_object": "file",
-    "name": "slxy1ig5xkysvz5j662weqxek0tdca.bmp",
-    "size_in_bytes": 3584
-  },
-  "object_number 48": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures",
-    "type_object": "file",
-    "name": "squgyshugwqi_tf182akl2sml.jpg",
-    "size_in_bytes": 1632
-  },
-  "object_number 49": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures",
-    "type_object": "file",
-    "name": "zb3da16n7mf2n8h4.bmp",
-    "size_in_bytes": 3309
-  },
-  "object_number 50": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Text",
-    "type_object": "file",
-    "name": "4mflm_4hwmfpcytw14_8wubs8cd.doc",
-    "size_in_bytes": 3636
-  },
-  "object_number 51": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Text",
-    "type_object": "file",
-    "name": "5d762b3m4p4.txt",
-    "size_in_bytes": 1506
-  },
-  "object_number 52": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Text",
-    "type_object": "file",
-    "name": "66wwd1rhas2_d3m6.doc",
-    "size_in_bytes": 881
-  },
-  "object_number 53": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Text",
-    "type_object": "file",
-    "name": "7g67u3htwilbjpbwg7buec.txt",
-    "size_in_bytes": 458
-  },
-  "object_number 54": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Text",
-    "type_object": "file",
-    "name": "8frr3nhk7y5oqxpdg464pd3a.docx",
-    "size_in_bytes": 3505
-  },
-  "object_number 55": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Text",
-    "type_object": "file",
-    "name": "f9d8bxut6j.txt",
-    "size_in_bytes": 1358
-  },
-  "object_number 56": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Text",
-    "type_object": "file",
-    "name": "fuejjir_0o0lq4xzq65nu.docx",
-    "size_in_bytes": 2409
-  },
-  "object_number 57": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Text",
-    "type_object": "file",
-    "name": "jveqixnvi7uw.doc",
-    "size_in_bytes": 3802
-  },
-  "object_number 58": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Text",
-    "type_object": "file",
-    "name": "y_281m7d.doc",
-    "size_in_bytes": 4052
-  },
-  "object_number 59": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Video",
-    "type_object": "file",
-    "name": "4q1citq9ie8znt5.mov",
-    "size_in_bytes": 444
-  },
-  "object_number 60": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Video",
-    "type_object": "file",
-    "name": "4rjk7hj4p6qt9dqrinue.mp4",
-    "size_in_bytes": 1313
-  },
-  "object_number 61": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Video",
-    "type_object": "file",
-    "name": "4u8q39hbhmw0dxxtzghy1mi50m.mp4",
-    "size_in_bytes": 2828
-  },
-  "object_number 62": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Video",
-    "type_object": "file",
-    "name": "7ms7pqi_63iynwwu11wt6c.mov",
-    "size_in_bytes": 2251
-  },
-  "object_number 63": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Video",
-    "type_object": "file",
-    "name": "ebzeo61_xwe5up.avi",
-    "size_in_bytes": 330
-  },
-  "object_number 64": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Video",
-    "type_object": "file",
-    "name": "eek077p_.mov",
-    "size_in_bytes": 3579
-  },
-  "object_number 65": {
-    "parent_directory": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Video",
-    "type_object": "file",
-    "name": "gzbvmu.avi",
-    "size_in_bytes": 3231
+  "ОБЪЕКТ_НОМЕР_1": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "-re-_rename_0001.txt",
+    "РАЗМЕР_В_БАЙТАХ": 0
+  },
+  "ОБЪЕКТ_НОМЕР_2": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "-re-_rename_0002.txt",
+    "РАЗМЕР_В_БАЙТАХ": 0
+  },
+  "ОБЪЕКТ_НОМЕР_3": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "-re-_rename_0003.txt",
+    "РАЗМЕР_В_БАЙТАХ": 0
+  },
+  "ОБЪЕКТ_НОМЕР_4": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "names.txt",
+    "РАЗМЕР_В_БАЙТАХ": 72
+  },
+  "ОБЪЕКТ_НОМЕР_5": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "numbers.txt",
+    "РАЗМЕР_В_БАЙТАХ": 126
+  },
+  "ОБЪЕКТ_НОМЕР_6": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "result.txt",
+    "РАЗМЕР_В_БАЙТАХ": 237
+  },
+  "ОБЪЕКТ_НОМЕР_7": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "task_1.py",
+    "РАЗМЕР_В_БАЙТАХ": 3153
+  },
+  "ОБЪЕКТ_НОМЕР_8": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "task_2.py",
+    "РАЗМЕР_В_БАЙТАХ": 767
+  },
+  "ОБЪЕКТ_НОМЕР_9": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07",
+    "ТИП_ОБЪЕКТА": "директория",
+    "ИМЯ_ОБЪЕКТА": "file_handler",
+    "РАЗМЕР_В_БАЙТАХ": 24336
+  },
+  "ОБЪЕКТ_НОМЕР_10": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07",
+    "ТИП_ОБЪЕКТА": "директория",
+    "ИМЯ_ОБЪЕКТА": "many_files",
+    "РАЗМЕР_В_БАЙТАХ": 93885
+  },
+  "ОБЪЕКТ_НОМЕР_11": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\file_handler",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "my_functions.py",
+    "РАЗМЕР_В_БАЙТАХ": 9443
+  },
+  "ОБЪЕКТ_НОМЕР_12": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\file_handler",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "__init__.py",
+    "РАЗМЕР_В_БАЙТАХ": 28
+  },
+  "ОБЪЕКТ_НОМЕР_13": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\file_handler",
+    "ТИП_ОБЪЕКТА": "директория",
+    "ИМЯ_ОБЪЕКТА": "__pycache__",
+    "РАЗМЕР_В_БАЙТАХ": 14865
+  },
+  "ОБЪЕКТ_НОМЕР_14": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\file_handler\\__pycache__",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "my_functions.cpython-311.pyc",
+    "РАЗМЕР_В_БАЙТАХ": 14672
+  },
+  "ОБЪЕКТ_НОМЕР_15": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\file_handler\\__pycache__",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "__init__.cpython-311.pyc",
+    "РАЗМЕР_В_БАЙТАХ": 193
+  },
+  "ОБЪЕКТ_НОМЕР_16": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "0niw_rename_02.tor",
+    "РАЗМЕР_В_БАЙТАХ": 932
+  },
+  "ОБЪЕКТ_НОМЕР_17": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "3ixayj5_v08erw682nnab.sh",
+    "РАЗМЕР_В_БАЙТАХ": 3521
+  },
+  "ОБЪЕКТ_НОМЕР_18": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "7wn2k4uexkqe5xe76tg4tu.java",
+    "РАЗМЕР_В_БАЙТАХ": 3656
+  },
+  "ОБЪЕКТ_НОМЕР_19": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "8ww1jdovamr1b0or.java",
+    "РАЗМЕР_В_БАЙТАХ": 641
+  },
+  "ОБЪЕКТ_НОМЕР_20": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "9fz0s3wytft6zpu6lyg.sh",
+    "РАЗМЕР_В_БАЙТАХ": 1019
+  },
+  "ОБЪЕКТ_НОМЕР_21": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "jn5y7bcv2c700.java",
+    "РАЗМЕР_В_БАЙТАХ": 1959
+  },
+  "ОБЪЕКТ_НОМЕР_22": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "k2q2pb.java",
+    "РАЗМЕР_В_БАЙТАХ": 2446
+  },
+  "ОБЪЕКТ_НОМЕР_23": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "x4c4_rename_01.tor",
+    "РАЗМЕР_В_БАЙТАХ": 662
+  },
+  "ОБЪЕКТ_НОМЕР_24": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files",
+    "ТИП_ОБЪЕКТА": "директория",
+    "ИМЯ_ОБЪЕКТА": "Music",
+    "РАЗМЕР_В_БАЙТАХ": 8758
+  },
+  "ОБЪЕКТ_НОМЕР_25": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files",
+    "ТИП_ОБЪЕКТА": "директория",
+    "ИМЯ_ОБЪЕКТА": "Pictures",
+    "РАЗМЕР_В_БАЙТАХ": 34708
+  },
+  "ОБЪЕКТ_НОМЕР_26": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files",
+    "ТИП_ОБЪЕКТА": "директория",
+    "ИМЯ_ОБЪЕКТА": "Text",
+    "РАЗМЕР_В_БАЙТАХ": 21607
+  },
+  "ОБЪЕКТ_НОМЕР_27": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files",
+    "ТИП_ОБЪЕКТА": "директория",
+    "ИМЯ_ОБЪЕКТА": "Video",
+    "РАЗМЕР_В_БАЙТАХ": 13976
+  },
+  "ОБЪЕКТ_НОМЕР_28": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Music",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "891gceo9h9usn.mp3",
+    "РАЗМЕР_В_БАЙТАХ": 382
+  },
+  "ОБЪЕКТ_НОМЕР_29": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Music",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "9lhzg4jfl.wav",
+    "РАЗМЕР_В_БАЙТАХ": 1831
+  },
+  "ОБЪЕКТ_НОМЕР_30": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Music",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "da1o83.wav",
+    "РАЗМЕР_В_БАЙТАХ": 286
+  },
+  "ОБЪЕКТ_НОМЕР_31": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Music",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "sx4uyrnouv8kg9o.mp3",
+    "РАЗМЕР_В_БАЙТАХ": 2981
+  },
+  "ОБЪЕКТ_НОМЕР_32": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Music",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "v2lp533ci3o7.aac",
+    "РАЗМЕР_В_БАЙТАХ": 331
+  },
+  "ОБЪЕКТ_НОМЕР_33": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Music",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "w7cvcy.wav",
+    "РАЗМЕР_В_БАЙТАХ": 2947
+  },
+  "ОБЪЕКТ_НОМЕР_34": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "28pq3_c305rp_ecc1of8l.jpg",
+    "РАЗМЕР_В_БАЙТАХ": 513
+  },
+  "ОБЪЕКТ_НОМЕР_35": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "6hy6ibbz2bt1s.png",
+    "РАЗМЕР_В_БАЙТАХ": 4069
+  },
+  "ОБЪЕКТ_НОМЕР_36": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "6rhs77v8p5dm_kri.gif",
+    "РАЗМЕР_В_БАЙТАХ": 1713
+  },
+  "ОБЪЕКТ_НОМЕР_37": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "9d0qdcfxomfbbktn_350e35zuq.jpg",
+    "РАЗМЕР_В_БАЙТАХ": 2492
+  },
+  "ОБЪЕКТ_НОМЕР_38": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "b1t6ocqkzqt7_pw8.bmp",
+    "РАЗМЕР_В_БАЙТАХ": 1820
+  },
+  "ОБЪЕКТ_НОМЕР_39": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "f3co98t44jk97cmcqmat.png",
+    "РАЗМЕР_В_БАЙТАХ": 2745
+  },
+  "ОБЪЕКТ_НОМЕР_40": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "fdacrs0e615x95gh897e.png",
+    "РАЗМЕР_В_БАЙТАХ": 2742
+  },
+  "ОБЪЕКТ_НОМЕР_41": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "g6h1kzhrc8q2c5w3g.bmp",
+    "РАЗМЕР_В_БАЙТАХ": 3027
+  },
+  "ОБЪЕКТ_НОМЕР_42": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "ihqxb98v909dzh5tm.jpg",
+    "РАЗМЕР_В_БАЙТАХ": 1269
+  },
+  "ОБЪЕКТ_НОМЕР_43": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "kz_asap3zx794d.jpg",
+    "РАЗМЕР_В_БАЙТАХ": 1051
+  },
+  "ОБЪЕКТ_НОМЕР_44": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "mpvte5dpvg.gif",
+    "РАЗМЕР_В_БАЙТАХ": 1553
+  },
+  "ОБЪЕКТ_НОМЕР_45": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "m_8qbe8vy909c6.bmp",
+    "РАЗМЕР_В_БАЙТАХ": 662
+  },
+  "ОБЪЕКТ_НОМЕР_46": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "ot_95h3_zx8_yb_mai1efyfra.bmp",
+    "РАЗМЕР_В_БАЙТАХ": 2527
+  },
+  "ОБЪЕКТ_НОМЕР_47": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "slxy1ig5xkysvz5j662weqxek0tdca.bmp",
+    "РАЗМЕР_В_БАЙТАХ": 3584
+  },
+  "ОБЪЕКТ_НОМЕР_48": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "squgyshugwqi_tf182akl2sml.jpg",
+    "РАЗМЕР_В_БАЙТАХ": 1632
+  },
+  "ОБЪЕКТ_НОМЕР_49": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Pictures",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "zb3da16n7mf2n8h4.bmp",
+    "РАЗМЕР_В_БАЙТАХ": 3309
+  },
+  "ОБЪЕКТ_НОМЕР_50": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Text",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "4mflm_4hwmfpcytw14_8wubs8cd.doc",
+    "РАЗМЕР_В_БАЙТАХ": 3636
+  },
+  "ОБЪЕКТ_НОМЕР_51": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Text",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "5d762b3m4p4.txt",
+    "РАЗМЕР_В_БАЙТАХ": 1506
+  },
+  "ОБЪЕКТ_НОМЕР_52": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Text",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "66wwd1rhas2_d3m6.doc",
+    "РАЗМЕР_В_БАЙТАХ": 881
+  },
+  "ОБЪЕКТ_НОМЕР_53": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Text",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "7g67u3htwilbjpbwg7buec.txt",
+    "РАЗМЕР_В_БАЙТАХ": 458
+  },
+  "ОБЪЕКТ_НОМЕР_54": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Text",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "8frr3nhk7y5oqxpdg464pd3a.docx",
+    "РАЗМЕР_В_БАЙТАХ": 3505
+  },
+  "ОБЪЕКТ_НОМЕР_55": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Text",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "f9d8bxut6j.txt",
+    "РАЗМЕР_В_БАЙТАХ": 1358
+  },
+  "ОБЪЕКТ_НОМЕР_56": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Text",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "fuejjir_0o0lq4xzq65nu.docx",
+    "РАЗМЕР_В_БАЙТАХ": 2409
+  },
+  "ОБЪЕКТ_НОМЕР_57": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Text",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "jveqixnvi7uw.doc",
+    "РАЗМЕР_В_БАЙТАХ": 3802
+  },
+  "ОБЪЕКТ_НОМЕР_58": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Text",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "y_281m7d.doc",
+    "РАЗМЕР_В_БАЙТАХ": 4052
+  },
+  "ОБЪЕКТ_НОМЕР_59": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Video",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "4q1citq9ie8znt5.mov",
+    "РАЗМЕР_В_БАЙТАХ": 444
+  },
+  "ОБЪЕКТ_НОМЕР_60": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Video",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "4rjk7hj4p6qt9dqrinue.mp4",
+    "РАЗМЕР_В_БАЙТАХ": 1313
+  },
+  "ОБЪЕКТ_НОМЕР_61": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Video",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "4u8q39hbhmw0dxxtzghy1mi50m.mp4",
+    "РАЗМЕР_В_БАЙТАХ": 2828
+  },
+  "ОБЪЕКТ_НОМЕР_62": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Video",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "7ms7pqi_63iynwwu11wt6c.mov",
+    "РАЗМЕР_В_БАЙТАХ": 2251
+  },
+  "ОБЪЕКТ_НОМЕР_63": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Video",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "ebzeo61_xwe5up.avi",
+    "РАЗМЕР_В_БАЙТАХ": 330
+  },
+  "ОБЪЕКТ_НОМЕР_64": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Video",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "eek077p_.mov",
+    "РАЗМЕР_В_БАЙТАХ": 3579
+  },
+  "ОБЪЕКТ_НОМЕР_65": {
+    "РОДИТЕЛЬСКАЯ_ДИРЕКТОРИЯ": "D:\\Python_GB\\HomeWork\\Lesson_07\\many_files\\Video",
+    "ТИП_ОБЪЕКТА": "файл",
+    "ИМЯ_ОБЪЕКТА": "gzbvmu.avi",
+    "РАЗМЕР_В_БАЙТАХ": 3231
   }
 }
