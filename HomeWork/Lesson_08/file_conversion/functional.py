@@ -167,7 +167,7 @@ def get_size(path_object: str) -> int:
     return total
 
 
-def all_info_dir(dir_path: str = DIR_PATH) -> None:
+def all_info_dir(dir_path: str = DIR_PATH_) -> None:
     """
         Функция рекурсивно обходит директорию и все ее вложенные директории. Результаты сохраняются в файлы форматов:
         json, csv, pickle.
