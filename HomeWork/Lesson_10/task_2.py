@@ -20,10 +20,7 @@ class CashMachine:
         """
         self.__cash = balance
         self.__counter = counter
-        if history is None:
-            self.__history = []
-        else:
-            self.__history = history
+        self.__history = history if history is not None else []
 
     def __print_menu(self):
         """Метод печати меню банкомата"""
