@@ -11,7 +11,7 @@ class RestanglePro(Restangle):
         """
         Метод сложения прямоугольников
         """
-        sum_perims: int = self.get_perim() + other.get_perim()
+        sum_perims: int = self.get_perim() + other.get_perimeter()
         a: int = self.a + other.b
         b: int = sum_perims // 2 - a
         return RestanglePro(a, b)
@@ -20,7 +20,7 @@ class RestanglePro(Restangle):
         """
         Метод вычитания прямоугольников
         """
-        if self.get_perim() < other.get_perim():
+        if self.get_perim() < other.get_perimeter():
             self, other = other, self
         diff = self.get_perim() - other.get_perim()
         a: int = abs(self.a - self.b)
