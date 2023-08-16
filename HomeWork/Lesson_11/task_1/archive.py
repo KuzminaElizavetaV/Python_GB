@@ -14,7 +14,7 @@ class Archive:
 
     def __new__(cls, *args, **kwargs):
         """
-        Добавляет стороки и номера в списки
+        Добавляет строки и номера в списки
         """
         print('__new__')
         if cls._instance is None:
@@ -28,7 +28,7 @@ class Archive:
 
     def __str__(self):
         """
-        Вывод объекта архив в виде строки
+        Вывод объекта Архив в виде строки
         """
         return f'We have text: {self.text} and number: {self.num}\nArchive texts: {self.archive_text}\n' \
                f'Archive nums: {self.archive_nums}'
