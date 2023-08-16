@@ -1,7 +1,7 @@
-__all__ = ['Restangle']
+__all__ = ['Rectangle']
 
 
-class Restangle:
+class Rectangle:
     """
     Класс реализует объект Прямоугольник
     """
@@ -17,7 +17,7 @@ class Restangle:
         else:
             self.b = b
 
-    def get_perim(self):
+    def get_perimeter(self):
         """
         Метод возвращает периметр прямоугольника
         """
@@ -31,9 +31,9 @@ class Restangle:
 
 
 if __name__ == '__main__':
-    r1 = Restangle(3, 2)
-    r2 = Restangle(5)
-    print(r1.get_perim())
+    r1 = Rectangle(3, 2)
+    r2 = Rectangle(5)
+    print(r1.get_perimeter())
     print(r1.get_square())
-    print(r2.get_perim())
+    print(r2.get_perimeter())
     print(r2.get_square())

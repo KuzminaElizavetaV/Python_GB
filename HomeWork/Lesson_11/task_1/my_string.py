@@ -28,7 +28,7 @@ class MyString(str):
 
 if __name__ == '__main__':
     example = MyString('text', 'Lisa')
-    example_2 = MyString('text2', 'Olya')
+    example_2 = MyString('text2', 'Oly')
     print(example)
     print(example_2)
     print(help(MyString))

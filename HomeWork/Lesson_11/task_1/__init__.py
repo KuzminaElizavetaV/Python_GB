@@ -1,1 +1,1 @@
-__all__ = ['archive', 'my_string', 'restangle', 'restangle_pro']
+__all__ = ['archive', 'my_string', 'rectangle.py', 'rectangle_pro.py']
