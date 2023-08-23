@@ -54,6 +54,12 @@ class Student:
         else:
             raise FileExistsError(f'Ошибка! Файл "{FILE_NAME_CSV}" не найден!')
 
+    def __eq__(self, other):
+        return self.name == other.name and self.name_father == other.name_father and self.surname == other.surname
+
+    def __hash__(self):
+        return hash((self.name, self.name_father, self.surname))
+
     def __str__(self):
         """
         Строковое представление объекта Студент
