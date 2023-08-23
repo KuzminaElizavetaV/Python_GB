@@ -10,7 +10,7 @@ class Matrix:
 
     def __str__(self):
         """
-        Метод представления матрицы ввиде строки
+        Метод представления матрицы в виде строки
         """
         return '\n'.join(['\t'.join(map(str, row)) for row in self.matrix])
 
@@ -97,5 +97,3 @@ if __name__ == '__main__':
     sub_matrix_4_3 = matrix_4 - matrix_3
     print(f'\nmatrix_4 - matrix_3 =>\n{sub_matrix_4_3}')
     print(f'\nmatrix_4 > matrix_3 => {matrix_4 > matrix_3}')
-
-
