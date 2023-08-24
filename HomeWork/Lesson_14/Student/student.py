@@ -1,5 +1,3 @@
-import logging
-import argparse
 import csv
 from os import path
 from student_exceptions import StudentNameError, NameSubjectError, StudentGradeError, \
@@ -10,10 +8,7 @@ MIN_TEST_SCORE = 0
 MAX_TEST_SCORE = 100
 MIN_GRADE = 2
 MAX_GRADE = 5
-__all__ = ['Student', 'create_student', 'run_from_console']
-FORMAT = '{levelname} - {asctime} - {msg}'
-logging.basicConfig(filename='students.log', encoding='utf-8', level=logging.NOTSET, format=FORMAT, style='{')
-logger = logging.getLogger(__name__)
+__all__ = ['Student']
 
 
 class CheckName:
@@ -151,59 +146,32 @@ class Student:
         return round(sum(total_grades) / len(total_grades)) if total_grades else 0
 
 
-def run_from_console():
-    parser = argparse.ArgumentParser(prog='create_student',
-                                     description='Создает объект типа Student',
-                                     epilog='Запуск из консоли: python student.py -s Шарапова -n Светлана -f Федоровна')
-    parser.add_argument('-s', '--surname', type=str, help='Фамилия')
-    parser.add_argument('-n', '--name', type=str, help='Имя')
-    parser.add_argument('-f', '--father_name', type=str, help='Отчество')
-    args = parser.parse_args()
-    return create_student(args.surname, args.name, args.father_name)
-
-
-def create_student(surname: str, name: str, name_father: str) -> Student | None:
-    try:
-        student = Student(surname, name, name_father)
-        log_msg = f'Студент <<{student}>> успешно создан'
-        print(log_msg)
-        logger.info(log_msg)
-    except StudentNameError:
-        log_msg = f'Нельзя создать студента с именем <<{surname} {name} {name_father}>>. ' \
-                  f'ФИО должно содержать только буквы и начинаться с заглавной буквы'
-        print(log_msg)
-        logger.error(log_msg)
-        return None
-    return student
-
-
 if __name__ == '__main__':
-    print(run_from_console())
-    # student_1 = Student('Иванов', 'Петр', 'Олегович')
-    # print(student_1)
-    # student_1.add_grade('алгебра', 5)
-    # student_1.add_grade('химия', 4)
-    # student_1.add_grade('геометрия', 5)
-    # student_1.add_grade('литература', 4)
-    # student_1.add_grade('алгебра', 4)
-    # student_1.add_grade('биология', 5)
-    # student_1.print_list_grades('алгебра')
-    # student_1.print_list_grades('химия')
-    # student_1.print_list_grades('геометрия')
-    # student_1.print_list_grades('литература')
-    # student_1.print_list_grades('биология')
-    # student_1.add_test_result('алгебра', 100)
-    # student_1.add_test_result('геометрия', 75)
-    # student_1.add_test_result('геометрия', 0)
-    # student_1.add_test_result('литература', 100)
-    # student_1.add_test_result('алгебра', 69)
-    # student_1.add_test_result('литература', 95)
-    # student_1.add_test_result('география', 100)
-    # student_1.print_list_tests('алгебра')
-    # student_1.print_list_tests('геометрия')
-    # student_1.print_list_tests('литература')
-    # student_1.print_list_tests('география')
-    # average_test = student_1.average_test_score('алгебра')
-    # print(f'Средний балл за тестирование по алгебре составил: {average_test}')
-    # average_grades = student_1.average_grade()
-    # print(f'Средний балл оценок по всем предметам составил: {average_grades}')
+    student_1 = Student('Иванов', 'Петр', 'Олегович')
+    print(student_1)
+    student_1.add_grade('алгебра', 5)
+    student_1.add_grade('химия', 4)
+    student_1.add_grade('геометрия', 5)
+    student_1.add_grade('литература', 4)
+    student_1.add_grade('алгебра', 4)
+    student_1.add_grade('биология', 5)
+    student_1.print_list_grades('алгебра')
+    student_1.print_list_grades('химия')
+    student_1.print_list_grades('геометрия')
+    student_1.print_list_grades('литература')
+    student_1.print_list_grades('биология')
+    student_1.add_test_result('алгебра', 100)
+    student_1.add_test_result('геометрия', 75)
+    student_1.add_test_result('геометрия', 0)
+    student_1.add_test_result('литература', 100)
+    student_1.add_test_result('алгебра', 69)
+    student_1.add_test_result('литература', 95)
+    student_1.add_test_result('география', 100)
+    student_1.print_list_tests('алгебра')
+    student_1.print_list_tests('геометрия')
+    student_1.print_list_tests('литература')
+    student_1.print_list_tests('география')
+    average_test = student_1.average_test_score('алгебра')
+    print(f'Средний балл за тестирование по алгебре составил: {average_test}')
+    average_grades = student_1.average_grade()
+    print(f'Средний балл оценок по всем предметам составил: {average_grades}')
