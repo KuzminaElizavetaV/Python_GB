@@ -8,7 +8,7 @@
 ### 2. **run_from_console** - *реализует возможность запуска из командной строки с передачей параметров (Фамилия, Имя, Отчество)*
 
 ----------
-### P.S. также прилагаю последнюю задачу в семинара, которую надо было доделать [**task_6.py**](https://github.com/KuzminaElizavetaV/Python_GB/blob/main/HomeWork/Lesson_15/task_6.py "Ссылка на файл")
+### P.S. также прилагаю последнюю задачу семинара, которую надо было доделать [**task_6.py**](https://github.com/KuzminaElizavetaV/Python_GB/blob/main/HomeWork/Lesson_15/task_6.py "Ссылка на файл")
 
  
 
